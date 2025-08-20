@@ -27,8 +27,7 @@ cd your-repo-name
 
 👨‍💻 Author
 
-Your Name
-📧 your-nikhillawale2911@gmail.com
-
-🌐 LinkedIn
- | GitHub
+## 👨‍💻 Author
+**Nikhil Nagnath Lawale**  
+📧 [nikhillawale2911@gmail.com](mailto:nikhillawale2911@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/nikhil-lawale) | [GitHub](https://github.com/Nikhillawale07)
