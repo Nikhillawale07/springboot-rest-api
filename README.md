@@ -24,10 +24,10 @@ A simple RESTful API built with **Spring Boot**, demonstrating clean code struct
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-
 👨‍💻 Author
 
-## 👨‍💻 Author
-**Nikhil Nagnath Lawale**  
-📧 [nikhillawale2911@gmail.com](mailto:nikhillawale2911@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/nikhil-lawale) | [GitHub](https://github.com/Nikhillawale07)
+Nikhil Nagnath Lawale
+📧 nikhillawale2911@gmail.com
+
+🌐 LinkedIn
+ | GitHub
