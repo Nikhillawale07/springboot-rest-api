@@ -98,12 +98,10 @@ public class HomeController {
 			return a;
 		}
 		/*
-		 * /req12
-		 * [
+		 * 		
+		 * [		/req12
     			10,20,30,40,50
 		   ]
-		 * 
-		 * 
 		 */
 		@GetMapping(value="/req12")
 		public int[] m13(@RequestBody int a[])
@@ -117,7 +115,4 @@ public class HomeController {
 			return s;
 		}
 		
-		
-		
-	
 }
