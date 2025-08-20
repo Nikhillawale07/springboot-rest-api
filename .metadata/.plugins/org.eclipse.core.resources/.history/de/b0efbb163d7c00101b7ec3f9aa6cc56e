@@ -1,0 +1,15 @@
+package com.demo.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HomeController {
+	
+	@RequestMapping(value="/req1")
+	public void m1()
+	{
+		System.out.println("we are in m1 method");
+	}
+
+}

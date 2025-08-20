@@ -1,0 +1,16 @@
+package com.demo.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HomeController {
+	
+	@GetMapping(value = "/")
+	public String m1()
+	{
+		System.out.println("we are in m1 method");
+		return null;
+	}
+	
+}

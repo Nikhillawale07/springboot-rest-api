@@ -1,0 +1,5 @@
+spring.application.name=sbapi1
+
+#server properties
+
+server.port=8080
