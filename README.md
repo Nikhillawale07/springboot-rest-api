@@ -1,4 +1,4 @@
-# 🌐 Spring Boot REST API (GET Only)
+# 🌐 Spring Boot REST API 
 
 A simple RESTful API built with **Spring Boot**, demonstrating clean code structure and GET endpoints.
 
@@ -24,3 +24,11 @@ A simple RESTful API built with **Spring Boot**, demonstrating clean code struct
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+👨‍💻 Author
+
+Your Name
+📧 your-nikhillawale2911@gmail.com
+
+🌐 LinkedIn
+ | GitHub
